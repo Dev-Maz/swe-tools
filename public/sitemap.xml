@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/first-chapter/index.html</loc>
+    <lastmod>2024-12-25T12:09:02+03:30</lastmod>
+  </url>
+  <url>
+    <loc>/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>/tags/index.html</loc>
+  </url>
+</urlset>
