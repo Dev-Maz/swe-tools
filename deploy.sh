@@ -2,4 +2,4 @@
 
 rm -r ~/swe-tools/docs
 mkdir ~/swe-tools/docs
-mv ~/swe-tools/public/ ~/swe-tools/docs/
+cp -R ~/swe-tools/public/* ~/swe-tools/docs/
