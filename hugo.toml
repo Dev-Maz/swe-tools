@@ -1,5 +1,4 @@
-baseURL = ''
-relativeURLs = "True"
+baseURL = 'https://dev-maz.github.io/swe-tools/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-theme-relearn'
