@@ -1,13 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dev-maz.github.io/swe-tools/first-chapter/index.html</loc>
-    <lastmod>2024-12-25T12:09:02+03:30</lastmod>
+    <loc>https://dev-maz.github.io/ci-cd/actions/index.html</loc>
   </url>
   <url>
-    <loc>https://dev-maz.github.io/swe-tools/categories/index.html</loc>
+    <loc>https://dev-maz.github.io/ci-cd/argo/index.html</loc>
   </url>
   <url>
-    <loc>https://dev-maz.github.io/swe-tools/tags/index.html</loc>
+    <loc>https://dev-maz.github.io/ci-cd/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/container/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/container/docker/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/editor/emacs/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/ci-cd/jenkins/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/container/kubernetes/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/container/mesos/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/editor/notepad&#43;&#43;/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/ci-cd/semaphore/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/editor/sublime/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/container/swarm/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/editor/vscode/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/editor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/vcs/git/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/vcs/bazaar/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/vcs/mercurial/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/vcs/subversion/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/tags/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/vcs/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/editor/vim/index.html</loc>
   </url>
 </urlset>

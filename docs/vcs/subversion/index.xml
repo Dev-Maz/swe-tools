@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subversion :: My New Hugo Site</title>
+    <link>https://dev-maz.github.io/vcs/subversion/index.html</link>
+    <description>Apache Subversion (often abbreviated SVN, after its command name svn) is a version control system distributed as open source under the Apache License. Software developers use Subversion to maintain current and historical versions of files such as source code, web pages, and documentation. Its goal is to be a mostly compatible successor to the widely used Concurrent Versions System (CVS).&#xA;The open source community has used Subversion widely: for example, in projects such as Apache Software Foundation, FreeBSD, SourceForge, and from 2006 to 2019, GCC. CodePlex was previously a common host for Subversion repositories.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://dev-maz.github.io/vcs/subversion/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git :: My New Hugo Site</title>
+    <link>https://dev-maz.github.io/vcs/git/index.html</link>
+    <description>Git is a distributed version control system that tracks versions of files. It is often used to control source code by programmers who are developing software collaboratively.&#xA;Design goals of Git include speed, data integrity, and support for distributed, non-linear workflows — thousands of parallel branches running on different computers.&#xA;As with most other distributed version control systems, and unlike most client–server systems, Git maintains a local copy of the entire repository, also known as “repo”, with history and version-tracking abilities, independent of network access or a central server. A repository is stored on each computer in a standard directory with additional, hidden files to provide version control capabilities. Git provides features to synchronize changes between repositories that share history; copied (cloned) from each other. For collaboration, Git supports synchronizing with repositories on remote machines. Although all repositories (with the same history) are peers, developers often use a central server to host a repository to hold an integrated copy.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://dev-maz.github.io/vcs/git/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
