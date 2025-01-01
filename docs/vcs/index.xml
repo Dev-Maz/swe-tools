@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Version Control System :: My New Hugo Site</title>
-    <link>https://dev-maz.github.io/vcs/index.html</link>
+    <link>https://dev-maz.github.io/swe-tools/vcs/index.html</link>
     <description>Version control (also known as revision control, source control, and source code management) is the software engineering practice of controlling, organizing, and tracking different versions in history of computer files; primarily source code text files, but generally any type of file.&#xA;Version control is a component of software configuration management.&#xA;A version control system is a software tool that automates version control. Alternatively, version control is embedded as a feature of some systems such as word processors, spreadsheets, collaborative web docs, and content management systems, e.g., Wikipedia’s page history.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://dev-maz.github.io/vcs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dev-maz.github.io/swe-tools/vcs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git</title>
-      <link>https://dev-maz.github.io/vcs/git/index.html</link>
+      <link>https://dev-maz.github.io/swe-tools/vcs/git/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dev-maz.github.io/vcs/git/index.html</guid>
+      <guid>https://dev-maz.github.io/swe-tools/vcs/git/index.html</guid>
       <description>Git is a distributed version control system that tracks versions of files. It is often used to control source code by programmers who are developing software collaboratively.&#xA;Design goals of Git include speed, data integrity, and support for distributed, non-linear workflows — thousands of parallel branches running on different computers.&#xA;As with most other distributed version control systems, and unlike most client–server systems, Git maintains a local copy of the entire repository, also known as “repo”, with history and version-tracking abilities, independent of network access or a central server. A repository is stored on each computer in a standard directory with additional, hidden files to provide version control capabilities. Git provides features to synchronize changes between repositories that share history; copied (cloned) from each other. For collaboration, Git supports synchronizing with repositories on remote machines. Although all repositories (with the same history) are peers, developers often use a central server to host a repository to hold an integrated copy.</description>
     </item>
     <item>
       <title>GNU Bazaar</title>
-      <link>https://dev-maz.github.io/vcs/bazaar/index.html</link>
+      <link>https://dev-maz.github.io/swe-tools/vcs/bazaar/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dev-maz.github.io/vcs/bazaar/index.html</guid>
+      <guid>https://dev-maz.github.io/swe-tools/vcs/bazaar/index.html</guid>
       <description>GNU Bazaar (formerly Bazaar-NG, command line tool bzr) is a distributed and client–server revision control system sponsored by Canonical.&#xA;Bazaar can be used by a single developer working on multiple branches of local content, or by teams collaborating across a network.&#xA;Bazaar is written in the Python programming language, with packages for major Linux distributions, Mac OS X and Microsoft Windows. Bazaar is free software and part of the GNU Project.</description>
     </item>
     <item>
       <title>Mercurial</title>
-      <link>https://dev-maz.github.io/vcs/mercurial/index.html</link>
+      <link>https://dev-maz.github.io/swe-tools/vcs/mercurial/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dev-maz.github.io/vcs/mercurial/index.html</guid>
+      <guid>https://dev-maz.github.io/swe-tools/vcs/mercurial/index.html</guid>
       <description>Mercurial is a distributed revision control tool for software developers. It is supported on Microsoft Windows, Linux, and other Unix-like systems, such as FreeBSD and macOS.&#xA;Mercurial’s major design goals include high performance and scalability, decentralization, fully distributed collaborative development, robust handling of both plain text and binary files, and advanced branching and merging capabilities, while remaining conceptually simple. It includes an integrated web-interface. Mercurial has also taken steps to ease the transition for users of other version control systems, particularly Subversion. Mercurial is primarily a command-line driven program, but graphical user interface extensions are available, e.g. TortoiseHg, and several IDEs offer support for version control with Mercurial. All of Mercurial’s operations are invoked as arguments to its driver program hg (a reference to Hg – the chemical symbol of the element mercury).</description>
     </item>
     <item>
       <title>Subversion</title>
-      <link>https://dev-maz.github.io/vcs/subversion/index.html</link>
+      <link>https://dev-maz.github.io/swe-tools/vcs/subversion/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dev-maz.github.io/vcs/subversion/index.html</guid>
+      <guid>https://dev-maz.github.io/swe-tools/vcs/subversion/index.html</guid>
       <description>Apache Subversion (often abbreviated SVN, after its command name svn) is a version control system distributed as open source under the Apache License. Software developers use Subversion to maintain current and historical versions of files such as source code, web pages, and documentation. Its goal is to be a mostly compatible successor to the widely used Concurrent Versions System (CVS).&#xA;The open source community has used Subversion widely: for example, in projects such as Apache Software Foundation, FreeBSD, SourceForge, and from 2006 to 2019, GCC. CodePlex was previously a common host for Subversion repositories.</description>
     </item>
   </channel>
