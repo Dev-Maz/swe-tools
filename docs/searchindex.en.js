@@ -5,7 +5,7 @@ var relearn_searchindex = [
     "description": "This is a new chapter.",
     "tags": [],
     "title": "Actions",
-    "uri": "/ci-cd/actions/index.html"
+    "uri": "/swe-tools/ci-cd/actions/index.html"
   },
   {
     "breadcrumb": "Ci Cd",
@@ -13,7 +13,7 @@ var relearn_searchindex = [
     "description": "This is a new chapter.",
     "tags": [],
     "title": "Argo",
-    "uri": "/ci-cd/argo/index.html"
+    "uri": "/swe-tools/ci-cd/argo/index.html"
   },
   {
     "breadcrumb": "",
@@ -21,7 +21,7 @@ var relearn_searchindex = [
     "description": "This is a new chapter.",
     "tags": [],
     "title": "Ci Cd",
-    "uri": "/ci-cd/index.html"
+    "uri": "/swe-tools/ci-cd/index.html"
   },
   {
     "breadcrumb": "",
@@ -29,7 +29,7 @@ var relearn_searchindex = [
     "description": "This is a new chapter.",
     "tags": [],
     "title": "Conatiner",
-    "uri": "/container/index.html"
+    "uri": "/swe-tools/container/index.html"
   },
   {
     "breadcrumb": "Conatiner",
@@ -37,7 +37,7 @@ var relearn_searchindex = [
     "description": "This is a new chapter.",
     "tags": [],
     "title": "Docker",
-    "uri": "/container/docker/index.html"
+    "uri": "/swe-tools/container/docker/index.html"
   },
   {
     "breadcrumb": "Code Editor",
@@ -45,7 +45,7 @@ var relearn_searchindex = [
     "description": "This is a new chapter.",
     "tags": [],
     "title": "Emacs",
-    "uri": "/editor/emacs/index.html"
+    "uri": "/swe-tools/editor/emacs/index.html"
   },
   {
     "breadcrumb": "Ci Cd",
@@ -53,7 +53,7 @@ var relearn_searchindex = [
     "description": "This is a new chapter.",
     "tags": [],
     "title": "Jenkins",
-    "uri": "/ci-cd/jenkins/index.html"
+    "uri": "/swe-tools/ci-cd/jenkins/index.html"
   },
   {
     "breadcrumb": "Conatiner",
@@ -61,7 +61,7 @@ var relearn_searchindex = [
     "description": "This is a new chapter.",
     "tags": [],
     "title": "Kubernetes",
-    "uri": "/container/kubernetes/index.html"
+    "uri": "/swe-tools/container/kubernetes/index.html"
   },
   {
     "breadcrumb": "Conatiner",
@@ -69,7 +69,7 @@ var relearn_searchindex = [
     "description": "This is a new chapter.",
     "tags": [],
     "title": "Mesos",
-    "uri": "/container/mesos/index.html"
+    "uri": "/swe-tools/container/mesos/index.html"
   },
   {
     "breadcrumb": "Code Editor",
@@ -77,7 +77,7 @@ var relearn_searchindex = [
     "description": "This is a new chapter.",
     "tags": [],
     "title": "Notepad++",
-    "uri": "/editor/notepad\u0026#43;\u0026#43;/index.html"
+    "uri": "/swe-tools/editor/notepad\u0026#43;\u0026#43;/index.html"
   },
   {
     "breadcrumb": "Ci Cd",
@@ -85,7 +85,7 @@ var relearn_searchindex = [
     "description": "This is a new chapter.",
     "tags": [],
     "title": "Semaphore",
-    "uri": "/ci-cd/semaphore/index.html"
+    "uri": "/swe-tools/ci-cd/semaphore/index.html"
   },
   {
     "breadcrumb": "Code Editor",
@@ -93,7 +93,7 @@ var relearn_searchindex = [
     "description": "This is a new chapter.",
     "tags": [],
     "title": "Sublime",
-    "uri": "/editor/sublime/index.html"
+    "uri": "/swe-tools/editor/sublime/index.html"
   },
   {
     "breadcrumb": "Conatiner",
@@ -101,7 +101,7 @@ var relearn_searchindex = [
     "description": "This is a new chapter.",
     "tags": [],
     "title": "Swarm",
-    "uri": "/container/swarm/index.html"
+    "uri": "/swe-tools/container/swarm/index.html"
   },
   {
     "breadcrumb": "Code Editor",
@@ -109,7 +109,7 @@ var relearn_searchindex = [
     "description": "This is a new chapter.",
     "tags": [],
     "title": "Vscode",
-    "uri": "/editor/vscode/index.html"
+    "uri": "/swe-tools/editor/vscode/index.html"
   },
   {
     "breadcrumb": "",
@@ -117,7 +117,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Categories",
-    "uri": "/categories/index.html"
+    "uri": "/swe-tools/categories/index.html"
   },
   {
     "breadcrumb": "",
@@ -125,7 +125,7 @@ var relearn_searchindex = [
     "description": "A source-code editor is a text editor program designed specifically for editing source code of computer programs. It may be a standalone application or it may be built into an integrated development environment (IDE).\nSource-code editors have features specifically designed to simplify and speed up typing of source code, such as syntax highlighting, indentation, autocomplete and brace matching functionality. These editors also provide a convenient way to run a compiler, interpreter, debugger, or other program relevant for the software-development process. So, while many text editors like Notepad can be used to edit source code, if they do not enhance, automate or ease the editing of code, they are not source-code editors.",
     "tags": [],
     "title": "Code Editor",
-    "uri": "/editor/index.html"
+    "uri": "/swe-tools/editor/index.html"
   },
   {
     "breadcrumb": "Version Control System",
@@ -133,7 +133,7 @@ var relearn_searchindex = [
     "description": "Git is a distributed version control system that tracks versions of files. It is often used to control source code by programmers who are developing software collaboratively.\nDesign goals of Git include speed, data integrity, and support for distributed, non-linear workflows — thousands of parallel branches running on different computers.\nAs with most other distributed version control systems, and unlike most client–server systems, Git maintains a local copy of the entire repository, also known as “repo”, with history and version-tracking abilities, independent of network access or a central server. A repository is stored on each computer in a standard directory with additional, hidden files to provide version control capabilities. Git provides features to synchronize changes between repositories that share history; copied (cloned) from each other. For collaboration, Git supports synchronizing with repositories on remote machines. Although all repositories (with the same history) are peers, developers often use a central server to host a repository to hold an integrated copy.",
     "tags": [],
     "title": "Git",
-    "uri": "/vcs/git/index.html"
+    "uri": "/swe-tools/vcs/git/index.html"
   },
   {
     "breadcrumb": "Version Control System",
@@ -141,7 +141,7 @@ var relearn_searchindex = [
     "description": "GNU Bazaar (formerly Bazaar-NG, command line tool bzr) is a distributed and client–server revision control system sponsored by Canonical.\nBazaar can be used by a single developer working on multiple branches of local content, or by teams collaborating across a network.\nBazaar is written in the Python programming language, with packages for major Linux distributions, Mac OS X and Microsoft Windows. Bazaar is free software and part of the GNU Project.",
     "tags": [],
     "title": "GNU Bazaar",
-    "uri": "/vcs/bazaar/index.html"
+    "uri": "/swe-tools/vcs/bazaar/index.html"
   },
   {
     "breadcrumb": "Version Control System",
@@ -149,7 +149,7 @@ var relearn_searchindex = [
     "description": "Mercurial is a distributed revision control tool for software developers. It is supported on Microsoft Windows, Linux, and other Unix-like systems, such as FreeBSD and macOS.\nMercurial’s major design goals include high performance and scalability, decentralization, fully distributed collaborative development, robust handling of both plain text and binary files, and advanced branching and merging capabilities, while remaining conceptually simple. It includes an integrated web-interface. Mercurial has also taken steps to ease the transition for users of other version control systems, particularly Subversion. Mercurial is primarily a command-line driven program, but graphical user interface extensions are available, e.g. TortoiseHg, and several IDEs offer support for version control with Mercurial. All of Mercurial’s operations are invoked as arguments to its driver program hg (a reference to Hg – the chemical symbol of the element mercury).",
     "tags": [],
     "title": "Mercurial",
-    "uri": "/vcs/mercurial/index.html"
+    "uri": "/swe-tools/vcs/mercurial/index.html"
   },
   {
     "breadcrumb": "Version Control System",
@@ -157,7 +157,7 @@ var relearn_searchindex = [
     "description": "Apache Subversion (often abbreviated SVN, after its command name svn) is a version control system distributed as open source under the Apache License. Software developers use Subversion to maintain current and historical versions of files such as source code, web pages, and documentation. Its goal is to be a mostly compatible successor to the widely used Concurrent Versions System (CVS).\nThe open source community has used Subversion widely: for example, in projects such as Apache Software Foundation, FreeBSD, SourceForge, and from 2006 to 2019, GCC. CodePlex was previously a common host for Subversion repositories.",
     "tags": [],
     "title": "Subversion",
-    "uri": "/vcs/subversion/index.html"
+    "uri": "/swe-tools/vcs/subversion/index.html"
   },
   {
     "breadcrumb": "",
@@ -165,7 +165,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tags",
-    "uri": "/tags/index.html"
+    "uri": "/swe-tools/tags/index.html"
   },
   {
     "breadcrumb": "",
@@ -173,7 +173,7 @@ var relearn_searchindex = [
     "description": "Version control (also known as revision control, source control, and source code management) is the software engineering practice of controlling, organizing, and tracking different versions in history of computer files; primarily source code text files, but generally any type of file.\nVersion control is a component of software configuration management.\nA version control system is a software tool that automates version control. Alternatively, version control is embedded as a feature of some systems such as word processors, spreadsheets, collaborative web docs, and content management systems, e.g., Wikipedia’s page history.",
     "tags": [],
     "title": "Version Control System",
-    "uri": "/vcs/index.html"
+    "uri": "/swe-tools/vcs/index.html"
   },
   {
     "breadcrumb": "Code Editor",
@@ -181,6 +181,6 @@ var relearn_searchindex = [
     "description": "Vim (vi improved) is a free and open-source, screen-based text editor program. It is an improved clone of Bill Joy’s vi. Vim’s author, Bram Moolenaar, derived Vim from a port of the Stevie editor for Amiga and released a version to the public in 1991. Vim is designed for use both from a command-line interface and as a standalone application in a graphical user interface. Since its release for the Amiga, cross-platform development has made it available on many other systems. In 2018, it was voted the most popular editor amongst Linux Journal readers; in 2015 the Stack Overflow developer survey found it to be the third most popular text editor, and in 2019 the fifth most popular development environment.",
     "tags": [],
     "title": "Vim",
-    "uri": "/editor/vim/index.html"
+    "uri": "/swe-tools/editor/vim/index.html"
   }
 ]
