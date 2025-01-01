@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vim :: My New Hugo Site</title>
-    <link>https://dev-maz.github.io/swe-tools/editor/vim/index.html</link>
+    <link>https://dev-maz.github.io/editor/vim/index.html</link>
     <description>Vim (vi improved) is a free and open-source, screen-based text editor program. It is an improved clone of Bill Joy’s vi. Vim’s author, Bram Moolenaar, derived Vim from a port of the Stevie editor for Amiga and released a version to the public in 1991. Vim is designed for use both from a command-line interface and as a standalone application in a graphical user interface. Since its release for the Amiga, cross-platform development has made it available on many other systems. In 2018, it was voted the most popular editor amongst Linux Journal readers; in 2015 the Stack Overflow developer survey found it to be the third most popular text editor, and in 2019 the fifth most popular development environment.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://dev-maz.github.io/swe-tools/editor/vim/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dev-maz.github.io/editor/vim/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

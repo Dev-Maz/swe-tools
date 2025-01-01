@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code Editor :: My New Hugo Site</title>
-    <link>https://dev-maz.github.io/swe-tools/editor/index.html</link>
+    <link>https://dev-maz.github.io/editor/index.html</link>
     <description>A source-code editor is a text editor program designed specifically for editing source code of computer programs. It may be a standalone application or it may be built into an integrated development environment (IDE).&#xA;Source-code editors have features specifically designed to simplify and speed up typing of source code, such as syntax highlighting, indentation, autocomplete and brace matching functionality. These editors also provide a convenient way to run a compiler, interpreter, debugger, or other program relevant for the software-development process. So, while many text editors like Notepad can be used to edit source code, if they do not enhance, automate or ease the editing of code, they are not source-code editors.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://dev-maz.github.io/swe-tools/editor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dev-maz.github.io/editor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emacs</title>
-      <link>https://dev-maz.github.io/swe-tools/editor/emacs/index.html</link>
+      <link>https://dev-maz.github.io/editor/emacs/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dev-maz.github.io/swe-tools/editor/emacs/index.html</guid>
+      <guid>https://dev-maz.github.io/editor/emacs/index.html</guid>
       <description>This is a new chapter.</description>
     </item>
     <item>
       <title>Notepad&#43;&#43;</title>
-      <link>https://dev-maz.github.io/swe-tools/editor/notepad&#43;&#43;/index.html</link>
+      <link>https://dev-maz.github.io/editor/notepad&#43;&#43;/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dev-maz.github.io/swe-tools/editor/notepad&#43;&#43;/index.html</guid>
+      <guid>https://dev-maz.github.io/editor/notepad&#43;&#43;/index.html</guid>
       <description>This is a new chapter.</description>
     </item>
     <item>
       <title>Sublime</title>
-      <link>https://dev-maz.github.io/swe-tools/editor/sublime/index.html</link>
+      <link>https://dev-maz.github.io/editor/sublime/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dev-maz.github.io/swe-tools/editor/sublime/index.html</guid>
+      <guid>https://dev-maz.github.io/editor/sublime/index.html</guid>
       <description>This is a new chapter.</description>
     </item>
     <item>
       <title>Vscode</title>
-      <link>https://dev-maz.github.io/swe-tools/editor/vscode/index.html</link>
+      <link>https://dev-maz.github.io/editor/vscode/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dev-maz.github.io/swe-tools/editor/vscode/index.html</guid>
+      <guid>https://dev-maz.github.io/editor/vscode/index.html</guid>
       <description>This is a new chapter.</description>
     </item>
     <item>
       <title>Vim</title>
-      <link>https://dev-maz.github.io/swe-tools/editor/vim/index.html</link>
+      <link>https://dev-maz.github.io/editor/vim/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dev-maz.github.io/swe-tools/editor/vim/index.html</guid>
+      <guid>https://dev-maz.github.io/editor/vim/index.html</guid>
       <description>Vim (vi improved) is a free and open-source, screen-based text editor program. It is an improved clone of Bill Joy’s vi. Vim’s author, Bram Moolenaar, derived Vim from a port of the Stevie editor for Amiga and released a version to the public in 1991. Vim is designed for use both from a command-line interface and as a standalone application in a graphical user interface. Since its release for the Amiga, cross-platform development has made it available on many other systems. In 2018, it was voted the most popular editor amongst Linux Journal readers; in 2015 the Stack Overflow developer survey found it to be the third most popular text editor, and in 2019 the fifth most popular development environment.</description>
     </item>
   </channel>
