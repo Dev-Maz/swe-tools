@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conatiner :: My New Hugo Site</title>
+    <title>Containerization :: My New Hugo Site</title>
     <link>https://dev-maz.github.io/swe-tools/container/index.html</link>
-    <description>This is a new chapter.</description>
+    <description>In software engineering, containerization is operating-system–level virtualization or application-level virtualization over multiple network resources so that software applications can run in isolated user spaces called containers in any cloud or non-cloud environment, regardless of type or vendor. The term “container” is overloaded, and it is important to ensure that the intended definition aligns with the audience’s understanding.&#xA;Each container is basically a fully functional and portable cloud or non-cloud computing environment surrounding the application and keeping it independent of other environments running in parallel. Individually, each container simulates a different software application and runs isolated processes by bundling related configuration files, libraries and dependencies. But, collectively, multiple containers share a common operating system kernel (OS).</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://dev-maz.github.io/swe-tools/container/index.xml" rel="self" type="application/rss+xml" />
@@ -12,28 +12,28 @@
       <link>https://dev-maz.github.io/swe-tools/container/docker/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dev-maz.github.io/swe-tools/container/docker/index.html</guid>
-      <description>This is a new chapter.</description>
+      <description>Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers. The service has both free and premium tiers. The software that hosts the containers is called Docker Engine. It was first released in 2013 and is developed by Docker, Inc.&#xA;Docker is a tool that is used to automate the deployment of applications in lightweight containers so that applications can work efficiently in different environments in isolation.</description>
+    </item>
+    <item>
+      <title>Docker Swarm</title>
+      <link>https://dev-maz.github.io/swe-tools/container/swarm/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-maz.github.io/swe-tools/container/swarm/index.html</guid>
+      <description>Docker Swarm is a container orchestration tool for clustering and scheduling Docker containers. With Swarm, IT administrators and developers can establish and manage a cluster of Docker nodes as a single virtual system.&#xA;Docker Swarm lets developers join multiple physical or virtual machines into a cluster. These individual machines are known as nodes or daemons.&#xA;Docker Swarm also lets admins and developers launch Docker containers, connect containers to multiple hosts, handle each node’s resources and improve application availability throughout a system.</description>
     </item>
     <item>
       <title>Kubernetes</title>
       <link>https://dev-maz.github.io/swe-tools/container/kubernetes/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dev-maz.github.io/swe-tools/container/kubernetes/index.html</guid>
-      <description>This is a new chapter.</description>
+      <description>Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management. Originally designed by Google, the project is now maintained by a worldwide community of contributors, and the trademark is held by the Cloud Native Computing Foundation.&#xA;The name Kubernetes originates from the Greek κυβερνήτης (kubernḗtēs), meaning ‘governor’, ‘helmsman’ or ‘pilot’. Kubernetes is often abbreviated as K8s, counting the eight letters between the K and the s (a numeronym).</description>
     </item>
     <item>
       <title>Mesos</title>
       <link>https://dev-maz.github.io/swe-tools/container/mesos/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dev-maz.github.io/swe-tools/container/mesos/index.html</guid>
-      <description>This is a new chapter.</description>
-    </item>
-    <item>
-      <title>Swarm</title>
-      <link>https://dev-maz.github.io/swe-tools/container/swarm/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dev-maz.github.io/swe-tools/container/swarm/index.html</guid>
-      <description>This is a new chapter.</description>
+      <description>Apache Mesos is an open-source project to manage computer clusters. It was developed at the University of California, Berkeley.&#xA;Mesos began as a research project in the UC Berkeley RAD Lab by then PhD students Benjamin Hindman, Andy Konwinski, and Matei Zaharia, as well as professor Ion Stoica. The students started working on the project as part of a course taught by David Culler. It was originally named Nexus but due to a conflict with another university’s project, was renamed to Mesos.</description>
     </item>
   </channel>
 </rss>

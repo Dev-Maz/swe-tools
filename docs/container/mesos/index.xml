@@ -3,7 +3,7 @@
   <channel>
     <title>Mesos :: My New Hugo Site</title>
     <link>https://dev-maz.github.io/swe-tools/container/mesos/index.html</link>
-    <description>This is a new chapter.</description>
+    <description>Apache Mesos is an open-source project to manage computer clusters. It was developed at the University of California, Berkeley.&#xA;Mesos began as a research project in the UC Berkeley RAD Lab by then PhD students Benjamin Hindman, Andy Konwinski, and Matei Zaharia, as well as professor Ion Stoica. The students started working on the project as part of a course taught by David Culler. It was originally named Nexus but due to a conflict with another university’s project, was renamed to Mesos.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://dev-maz.github.io/swe-tools/container/mesos/index.xml" rel="self" type="application/rss+xml" />

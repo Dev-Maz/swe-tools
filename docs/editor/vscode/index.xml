@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vscode :: My New Hugo Site</title>
+    <title>VSCode :: My New Hugo Site</title>
     <link>https://dev-maz.github.io/swe-tools/editor/vscode/index.html</link>
-    <description>This is a new chapter.</description>
+    <description>Visual Studio Code, commonly referred to as VS Code, is an integrated development environment developed by Microsoft for Windows, Linux, macOS and web browsers. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded version control with Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add functionality.&#xA;Visual Studio Code is proprietary software released under the “Microsoft Software License”, but based on the MIT licensed program named “Visual Studio Code — Open Source” (also known as “Code — OSS”), also created by Microsoft and available through GitHub. Open-source binaries are available from VSCodium, without Microsoft’s telemetry.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://dev-maz.github.io/swe-tools/editor/vscode/index.xml" rel="self" type="application/rss+xml" />

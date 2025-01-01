@@ -8,18 +8,11 @@
     <language>en-us</language>
     <atom:link href="https://dev-maz.github.io/swe-tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ci Cd</title>
+      <title>CI/CD</title>
       <link>https://dev-maz.github.io/swe-tools/ci-cd/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dev-maz.github.io/swe-tools/ci-cd/index.html</guid>
-      <description>This is a new chapter.</description>
-    </item>
-    <item>
-      <title>Conatiner</title>
-      <link>https://dev-maz.github.io/swe-tools/container/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dev-maz.github.io/swe-tools/container/index.html</guid>
-      <description>This is a new chapter.</description>
+      <description>In software engineering, CI/CD or CICD is the combined practices of continuous integration (CI) and continuous delivery (CD) or, less often, continuous deployment. They are sometimes referred to collectively as continuous development or continuous software development.&#xA;Continuous integration Frequent merging of several small changes into a main branch. Continuous delivery Producing software in short cycles with high speed and frequency so that reliable software can be released at any time, with a simple and repeatable deployment process when deciding to deploy. Continuous deployment Automatic rollout of new software functionality. CI/CD bridges the gaps between development and operation activities and teams by enforcing automation in building, testing and deployment of applications. CI/CD services compile the incremental code changes made by developers, then link and package them into software deliverables. Automated tests verify the software functionality, and automated deployment services deliver them to end users. The aim is to increase early defect discovery, increase productivity, and provide faster release cycles. The process contrasts with traditional methods where a collection of software updates were integrated into one large batch before deploying the newer version.</description>
     </item>
     <item>
       <title>Code Editor</title>
@@ -27,6 +20,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dev-maz.github.io/swe-tools/editor/index.html</guid>
       <description>A source-code editor is a text editor program designed specifically for editing source code of computer programs. It may be a standalone application or it may be built into an integrated development environment (IDE).&#xA;Source-code editors have features specifically designed to simplify and speed up typing of source code, such as syntax highlighting, indentation, autocomplete and brace matching functionality. These editors also provide a convenient way to run a compiler, interpreter, debugger, or other program relevant for the software-development process. So, while many text editors like Notepad can be used to edit source code, if they do not enhance, automate or ease the editing of code, they are not source-code editors.</description>
+    </item>
+    <item>
+      <title>Containerization</title>
+      <link>https://dev-maz.github.io/swe-tools/container/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-maz.github.io/swe-tools/container/index.html</guid>
+      <description>In software engineering, containerization is operating-system–level virtualization or application-level virtualization over multiple network resources so that software applications can run in isolated user spaces called containers in any cloud or non-cloud environment, regardless of type or vendor. The term “container” is overloaded, and it is important to ensure that the intended definition aligns with the audience’s understanding.&#xA;Each container is basically a fully functional and portable cloud or non-cloud computing environment surrounding the application and keeping it independent of other environments running in parallel. Individually, each container simulates a different software application and runs isolated processes by bundling related configuration files, libraries and dependencies. But, collectively, multiple containers share a common operating system kernel (OS).</description>
     </item>
     <item>
       <title>Version Control System</title>

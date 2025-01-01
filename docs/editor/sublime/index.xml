@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sublime :: My New Hugo Site</title>
+    <title>Sublime Text :: My New Hugo Site</title>
     <link>https://dev-maz.github.io/swe-tools/editor/sublime/index.html</link>
-    <description>This is a new chapter.</description>
+    <description>Sublime Text is a text and source code editor featuring a minimal interface, syntax highlighting and code folding with native support for numerous programming and markup languages, search and replace with support for regular expressions, an integrated terminal/console window, and customizable themes. Available for Windows, macOS, and Linux, its functionality can be expanded with plugins written in Python. Community-contributed plugins can be downloaded and installed via a built-in Package Control system, or written by the user via a Python API. Sublime Text is proprietary software, but can be downloaded for free and used as an evaluation version with no time limit.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://dev-maz.github.io/swe-tools/editor/sublime/index.xml" rel="self" type="application/rss+xml" />

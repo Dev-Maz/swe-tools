@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dev-maz.github.io/swe-tools/ci-cd/actions/index.html</loc>
-  </url>
-  <url>
     <loc>https://dev-maz.github.io/swe-tools/ci-cd/argo/index.html</loc>
   </url>
   <url>
+    <loc>https://dev-maz.github.io/swe-tools/categories/index.html</loc>
+  </url>
+  <url>
     <loc>https://dev-maz.github.io/swe-tools/ci-cd/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/swe-tools/editor/index.html</loc>
   </url>
   <url>
     <loc>https://dev-maz.github.io/swe-tools/container/index.html</loc>
@@ -16,7 +19,19 @@
     <loc>https://dev-maz.github.io/swe-tools/container/docker/index.html</loc>
   </url>
   <url>
+    <loc>https://dev-maz.github.io/swe-tools/container/swarm/index.html</loc>
+  </url>
+  <url>
     <loc>https://dev-maz.github.io/swe-tools/editor/emacs/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/swe-tools/vcs/git/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/swe-tools/ci-cd/actions/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/swe-tools/vcs/bazaar/index.html</loc>
   </url>
   <url>
     <loc>https://dev-maz.github.io/swe-tools/ci-cd/jenkins/index.html</loc>
@@ -25,37 +40,19 @@
     <loc>https://dev-maz.github.io/swe-tools/container/kubernetes/index.html</loc>
   </url>
   <url>
+    <loc>https://dev-maz.github.io/swe-tools/vcs/mercurial/index.html</loc>
+  </url>
+  <url>
     <loc>https://dev-maz.github.io/swe-tools/container/mesos/index.html</loc>
   </url>
   <url>
-    <loc>https://dev-maz.github.io/swe-tools/editor/notepad&#43;&#43;/index.html</loc>
+    <loc>https://dev-maz.github.io/swe-tools/editor/notepad/index.html</loc>
   </url>
   <url>
     <loc>https://dev-maz.github.io/swe-tools/ci-cd/semaphore/index.html</loc>
   </url>
   <url>
     <loc>https://dev-maz.github.io/swe-tools/editor/sublime/index.html</loc>
-  </url>
-  <url>
-    <loc>https://dev-maz.github.io/swe-tools/container/swarm/index.html</loc>
-  </url>
-  <url>
-    <loc>https://dev-maz.github.io/swe-tools/editor/vscode/index.html</loc>
-  </url>
-  <url>
-    <loc>https://dev-maz.github.io/swe-tools/categories/index.html</loc>
-  </url>
-  <url>
-    <loc>https://dev-maz.github.io/swe-tools/editor/index.html</loc>
-  </url>
-  <url>
-    <loc>https://dev-maz.github.io/swe-tools/vcs/git/index.html</loc>
-  </url>
-  <url>
-    <loc>https://dev-maz.github.io/swe-tools/vcs/bazaar/index.html</loc>
-  </url>
-  <url>
-    <loc>https://dev-maz.github.io/swe-tools/vcs/mercurial/index.html</loc>
   </url>
   <url>
     <loc>https://dev-maz.github.io/swe-tools/vcs/subversion/index.html</loc>
@@ -68,5 +65,8 @@
   </url>
   <url>
     <loc>https://dev-maz.github.io/swe-tools/editor/vim/index.html</loc>
+  </url>
+  <url>
+    <loc>https://dev-maz.github.io/swe-tools/editor/vscode/index.html</loc>
   </url>
 </urlset>

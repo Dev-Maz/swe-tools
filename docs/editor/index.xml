@@ -12,28 +12,21 @@
       <link>https://dev-maz.github.io/swe-tools/editor/emacs/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dev-maz.github.io/swe-tools/editor/emacs/index.html</guid>
-      <description>This is a new chapter.</description>
+      <description>Emacs, originally named EMACS (an acronym for “Editor Macros”) is a family of text editors that are characterized by their extensibility. The manual for the most widely used variant, GNU Emacs, describes it as “the extensible, customizable, self-documenting, real-time display editor”. Development of the first Emacs began in the mid-1970s, and work on GNU Emacs, directly descended from the original, is ongoing; its latest version is 29.4 Edit this on Wikidata, released June 2024.</description>
     </item>
     <item>
       <title>Notepad&#43;&#43;</title>
-      <link>https://dev-maz.github.io/swe-tools/editor/notepad&#43;&#43;/index.html</link>
+      <link>https://dev-maz.github.io/swe-tools/editor/notepad/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dev-maz.github.io/swe-tools/editor/notepad&#43;&#43;/index.html</guid>
-      <description>This is a new chapter.</description>
+      <guid>https://dev-maz.github.io/swe-tools/editor/notepad/index.html</guid>
+      <description>Notepad++ (sometimes npp or NPP), is a text and source code editor for use with Microsoft Windows. It supports tabbed editing, which allows working with multiple open files in one window. The program’s name comes from the C postfix increment operator.&#xA;Notepad++ is released as free and open-source software under a GNU General Public License (GPL) 3.0 or later. At first, the project was hosted on the SourceForge software repository (2003–2010), from where it was downloaded over 28 million times, and twice won the SourceForge Community Choice Award for Best Developer Tool. Then, the project moved to TuxFamily (2010–2015), and then to GitHub (2015–present). Notepad++ uses the Scintilla editor component. Notepad++ is a source code editor. It features syntax highlighting, code folding and limited autocompletion for programming, scripting, and markup languages, but not intelligent code completion or syntax checking. As such, it may properly highlight code written in a supported schema, but whether the syntax is internally sound or compilable, cannot be verified. The language list also displays two special-case items for ordinary plain text: “Normal text” (default) or “MS-DOS Style”, which tries to emulate DOS-era text editors.</description>
     </item>
     <item>
-      <title>Sublime</title>
+      <title>Sublime Text</title>
       <link>https://dev-maz.github.io/swe-tools/editor/sublime/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dev-maz.github.io/swe-tools/editor/sublime/index.html</guid>
-      <description>This is a new chapter.</description>
-    </item>
-    <item>
-      <title>Vscode</title>
-      <link>https://dev-maz.github.io/swe-tools/editor/vscode/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dev-maz.github.io/swe-tools/editor/vscode/index.html</guid>
-      <description>This is a new chapter.</description>
+      <description>Sublime Text is a text and source code editor featuring a minimal interface, syntax highlighting and code folding with native support for numerous programming and markup languages, search and replace with support for regular expressions, an integrated terminal/console window, and customizable themes. Available for Windows, macOS, and Linux, its functionality can be expanded with plugins written in Python. Community-contributed plugins can be downloaded and installed via a built-in Package Control system, or written by the user via a Python API. Sublime Text is proprietary software, but can be downloaded for free and used as an evaluation version with no time limit.</description>
     </item>
     <item>
       <title>Vim</title>
@@ -41,6 +34,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://dev-maz.github.io/swe-tools/editor/vim/index.html</guid>
       <description>Vim (vi improved) is a free and open-source, screen-based text editor program. It is an improved clone of Bill Joy’s vi. Vim’s author, Bram Moolenaar, derived Vim from a port of the Stevie editor for Amiga and released a version to the public in 1991. Vim is designed for use both from a command-line interface and as a standalone application in a graphical user interface. Since its release for the Amiga, cross-platform development has made it available on many other systems. In 2018, it was voted the most popular editor amongst Linux Journal readers; in 2015 the Stack Overflow developer survey found it to be the third most popular text editor, and in 2019 the fifth most popular development environment.</description>
+    </item>
+    <item>
+      <title>VSCode</title>
+      <link>https://dev-maz.github.io/swe-tools/editor/vscode/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://dev-maz.github.io/swe-tools/editor/vscode/index.html</guid>
+      <description>Visual Studio Code, commonly referred to as VS Code, is an integrated development environment developed by Microsoft for Windows, Linux, macOS and web browsers. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded version control with Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add functionality.&#xA;Visual Studio Code is proprietary software released under the “Microsoft Software License”, but based on the MIT licensed program named “Visual Studio Code — Open Source” (also known as “Code — OSS”), also created by Microsoft and available through GitHub. Open-source binaries are available from VSCodium, without Microsoft’s telemetry.</description>
     </item>
   </channel>
 </rss>

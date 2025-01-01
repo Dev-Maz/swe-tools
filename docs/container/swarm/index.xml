@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Swarm :: My New Hugo Site</title>
+    <title>Docker Swarm :: My New Hugo Site</title>
     <link>https://dev-maz.github.io/swe-tools/container/swarm/index.html</link>
-    <description>This is a new chapter.</description>
+    <description>Docker Swarm is a container orchestration tool for clustering and scheduling Docker containers. With Swarm, IT administrators and developers can establish and manage a cluster of Docker nodes as a single virtual system.&#xA;Docker Swarm lets developers join multiple physical or virtual machines into a cluster. These individual machines are known as nodes or daemons.&#xA;Docker Swarm also lets admins and developers launch Docker containers, connect containers to multiple hosts, handle each node’s resources and improve application availability throughout a system.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://dev-maz.github.io/swe-tools/container/swarm/index.xml" rel="self" type="application/rss+xml" />
