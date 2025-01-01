@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Github Actions :: My New Hugo Site</title>
+    <title>Github Actions :: SWE Tools</title>
     <link>https://dev-maz.github.io/swe-tools/ci-cd/actions/index.html</link>
     <description>GitHub Actions is a platform for continuous integration / continuous delivery (CI/CD). It enables you to automate build, testing, and deployment pipelines. It also lets you run arbitrary code on a specified repository when an event occurs. Actions uses code packages in Docker containers that run on GitHub servers. They are compatible with all programming languages to ensure you can run them on public clouds as well as local servers.</description>
     <generator>Hugo</generator>

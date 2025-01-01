@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emacs :: My New Hugo Site</title>
+    <title>Emacs :: SWE Tools</title>
     <link>https://dev-maz.github.io/swe-tools/editor/emacs/index.html</link>
     <description>Emacs, originally named EMACS (an acronym for “Editor Macros”) is a family of text editors that are characterized by their extensibility. The manual for the most widely used variant, GNU Emacs, describes it as “the extensible, customizable, self-documenting, real-time display editor”. Development of the first Emacs began in the mid-1970s, and work on GNU Emacs, directly descended from the original, is ongoing; its latest version is 29.4 Edit this on Wikidata, released June 2024.</description>
     <generator>Hugo</generator>

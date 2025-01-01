@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Version Control System :: My New Hugo Site</title>
+    <title>Version Control System :: SWE Tools</title>
     <link>https://dev-maz.github.io/swe-tools/vcs/index.html</link>
     <description>Version control (also known as revision control, source control, and source code management) is the software engineering practice of controlling, organizing, and tracking different versions in history of computer files; primarily source code text files, but generally any type of file.&#xA;Version control is a component of software configuration management.&#xA;A version control system is a software tool that automates version control. Alternatively, version control is embedded as a feature of some systems such as word processors, spreadsheets, collaborative web docs, and content management systems, e.g., Wikipedia’s page history.</description>
     <generator>Hugo</generator>

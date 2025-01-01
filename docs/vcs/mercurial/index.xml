@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mercurial :: My New Hugo Site</title>
+    <title>Mercurial :: SWE Tools</title>
     <link>https://dev-maz.github.io/swe-tools/vcs/mercurial/index.html</link>
     <description>Mercurial is a distributed revision control tool for software developers. It is supported on Microsoft Windows, Linux, and other Unix-like systems, such as FreeBSD and macOS.&#xA;Mercurial’s major design goals include high performance and scalability, decentralization, fully distributed collaborative development, robust handling of both plain text and binary files, and advanced branching and merging capabilities, while remaining conceptually simple. It includes an integrated web-interface. Mercurial has also taken steps to ease the transition for users of other version control systems, particularly Subversion. Mercurial is primarily a command-line driven program, but graphical user interface extensions are available, e.g. TortoiseHg, and several IDEs offer support for version control with Mercurial. All of Mercurial’s operations are invoked as arguments to its driver program hg (a reference to Hg – the chemical symbol of the element mercury).</description>
     <generator>Hugo</generator>

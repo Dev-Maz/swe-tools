@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notepad&#43;&#43; :: My New Hugo Site</title>
+    <title>Notepad&#43;&#43; :: SWE Tools</title>
     <link>https://dev-maz.github.io/swe-tools/editor/notepad/index.html</link>
     <description>Notepad++ (sometimes npp or NPP), is a text and source code editor for use with Microsoft Windows. It supports tabbed editing, which allows working with multiple open files in one window. The program’s name comes from the C postfix increment operator.&#xA;Notepad++ is released as free and open-source software under a GNU General Public License (GPL) 3.0 or later. At first, the project was hosted on the SourceForge software repository (2003–2010), from where it was downloaded over 28 million times, and twice won the SourceForge Community Choice Award for Best Developer Tool. Then, the project moved to TuxFamily (2010–2015), and then to GitHub (2015–present). Notepad++ uses the Scintilla editor component. Notepad++ is a source code editor. It features syntax highlighting, code folding and limited autocompletion for programming, scripting, and markup languages, but not intelligent code completion or syntax checking. As such, it may properly highlight code written in a supported schema, but whether the syntax is internally sound or compilable, cannot be verified. The language list also displays two special-case items for ordinary plain text: “Normal text” (default) or “MS-DOS Style”, which tries to emulate DOS-era text editors.</description>
     <generator>Hugo</generator>

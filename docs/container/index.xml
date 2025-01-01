@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Containerization :: My New Hugo Site</title>
+    <title>Containerization :: SWE Tools</title>
     <link>https://dev-maz.github.io/swe-tools/container/index.html</link>
     <description>In software engineering, containerization is operating-system–level virtualization or application-level virtualization over multiple network resources so that software applications can run in isolated user spaces called containers in any cloud or non-cloud environment, regardless of type or vendor. The term “container” is overloaded, and it is important to ensure that the intended definition aligns with the audience’s understanding.&#xA;Each container is basically a fully functional and portable cloud or non-cloud computing environment surrounding the application and keeping it independent of other environments running in parallel. Individually, each container simulates a different software application and runs isolated processes by bundling related configuration files, libraries and dependencies. But, collectively, multiple containers share a common operating system kernel (OS).</description>
     <generator>Hugo</generator>

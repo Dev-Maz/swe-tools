@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GNU Bazaar :: My New Hugo Site</title>
+    <title>GNU Bazaar :: SWE Tools</title>
     <link>https://dev-maz.github.io/swe-tools/vcs/bazaar/index.html</link>
     <description>GNU Bazaar (formerly Bazaar-NG, command line tool bzr) is a distributed and client–server revision control system sponsored by Canonical.&#xA;Bazaar can be used by a single developer working on multiple branches of local content, or by teams collaborating across a network.&#xA;Bazaar is written in the Python programming language, with packages for major Linux distributions, Mac OS X and Microsoft Windows. Bazaar is free software and part of the GNU Project.</description>
     <generator>Hugo</generator>

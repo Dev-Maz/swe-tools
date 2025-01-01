@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Semaphore :: My New Hugo Site</title>
+    <title>Semaphore :: SWE Tools</title>
     <link>https://dev-maz.github.io/swe-tools/ci-cd/semaphore/index.html</link>
     <description>Semaphore is a hosted continuous integration and deployment service used for testing and deploying software projects hosted on GitHub and BitBucket.&#xA;While open source projects can use Semaphore for free in its full capacity, free use for private projects is limited to 100 builds per month (Semaphore Classic) or $20 of service every month (Semaphore 2.0).&#xA;One of Semaphore’s features is native Docker support, which enables testing and deploying Docker-based applications. Semaphore also offers Boosters, a feature that reduces the duration of running a test suite to that of the longest test through automatic parallelization of builds for Ruby projects.</description>
     <generator>Hugo</generator>

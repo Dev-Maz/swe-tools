@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Code Editor :: My New Hugo Site</title>
+    <title>Code Editor :: SWE Tools</title>
     <link>https://dev-maz.github.io/swe-tools/editor/index.html</link>
     <description>A source-code editor is a text editor program designed specifically for editing source code of computer programs. It may be a standalone application or it may be built into an integrated development environment (IDE).&#xA;Source-code editors have features specifically designed to simplify and speed up typing of source code, such as syntax highlighting, indentation, autocomplete and brace matching functionality. These editors also provide a convenient way to run a compiler, interpreter, debugger, or other program relevant for the software-development process. So, while many text editors like Notepad can be used to edit source code, if they do not enhance, automate or ease the editing of code, they are not source-code editors.</description>
     <generator>Hugo</generator>

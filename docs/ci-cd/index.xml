@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CI/CD :: My New Hugo Site</title>
+    <title>CI/CD :: SWE Tools</title>
     <link>https://dev-maz.github.io/swe-tools/ci-cd/index.html</link>
     <description>In software engineering, CI/CD or CICD is the combined practices of continuous integration (CI) and continuous delivery (CD) or, less often, continuous deployment. They are sometimes referred to collectively as continuous development or continuous software development.&#xA;Continuous integration Frequent merging of several small changes into a main branch. Continuous delivery Producing software in short cycles with high speed and frequency so that reliable software can be released at any time, with a simple and repeatable deployment process when deciding to deploy. Continuous deployment Automatic rollout of new software functionality. CI/CD bridges the gaps between development and operation activities and teams by enforcing automation in building, testing and deployment of applications. CI/CD services compile the incremental code changes made by developers, then link and package them into software deliverables. Automated tests verify the software functionality, and automated deployment services deliver them to end users. The aim is to increase early defect discovery, increase productivity, and provide faster release cycles. The process contrasts with traditional methods where a collection of software updates were integrated into one large batch before deploying the newer version.</description>
     <generator>Hugo</generator>
